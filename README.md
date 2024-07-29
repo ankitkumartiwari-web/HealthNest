@@ -30,8 +30,6 @@ We welcome contributions from the community! Please fork the repository and subm
 
 ## Refrence image
 
-
-
 ![Screenshot 2024-07-29 195226](https://github.com/user-attachments/assets/84fba05f-8fda-4b0a-8db3-2000ac7a2e5c)
 ![Screenshot 2024-07-29 195156](https://github.com/user-attachments/assets/10b36e4e-a621-433a-8c44-0d39ab0d0a36)
 ![Screenshot 2024-07-29 195147](https://github.com/user-attachments/assets/93e848be-ad46-4095-8cf1-74dfb7c421f4)
